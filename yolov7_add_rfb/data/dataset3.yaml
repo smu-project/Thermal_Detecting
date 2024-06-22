@@ -1,0 +1,10 @@
+# dataset path
+train: ./dataset/p_r_dataset/train/  
+val: ./dataset/p_r_dataset/valid/  
+test: ./dataset/p_r_dataset/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'person']
